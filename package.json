@@ -1,0 +1,19 @@
+{
+  "name": "image-packer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.4",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "postject": "1.0.0-alpha.6"
+  }
+}
